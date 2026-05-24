@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+fastapi
+uvicorn
+streamlit
+requests
+pydantic
+#uvicorn app: app --reloaded
+#the above command fast api open sharpaly for the json level
